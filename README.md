@@ -48,7 +48,8 @@
 
 ### 🔹 MarketNest (E-Commerce Platform)
 - Built full-stack E-commerce app with authentication and cart system  
-- Designed REST APIs and managed MongoDB database  
+- Designed REST APIs and managed MongoDB database
+- Role Base Authentication (User Role and Admin Role) 
 - Deployed frontend on Vercel and backend on Render
 - 🔗 [Frontend](https://market-nest-frontend-umber.vercel.app/) · [Backend](https://marketnest-backend-kxer.onrender.com/)
 
