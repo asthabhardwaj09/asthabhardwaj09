@@ -5,9 +5,9 @@
 ---
 
 ## 💼 About Me
-- Full Stack Developer with hands-on experience in building scalable web applications  
-- Strong focus on MERN stack and Backend Architecture  
-- Passionate about solving real-world problems through code  
+- Built and deployed **2 full-stack MERN projects** — a LeetCode Clone (Judge0 + test cases) and MarketNest (E-commerce with auth & cart)
+- Completed a **Frontend Internship at GanakGyan** — shipped Bharat Yatra, a responsive React app
+- Currently sharpening **DSA in Python** and exploring system design
 
 ---
 
@@ -41,14 +41,13 @@
 ## 📌 Featured Projects
 
 ### 🔹 LeetCode Clone
-- Built full-stack coding platform with real-time code execution  
-- Integrated Judge0 API for running code  
-- Added timer, test cases, and challenge mode  
+- Built full-stack coding platform with real-time code execution
+- Integrated Judge0 API for running code with custom test cases
+- Added timer, challenge mode, and JS problem set
+- [GitHub Repo](https://github.com/asthabhardwaj09/leetcode-clone-nodejs-react)
 
 ### 🔹 MarketNest (E-Commerce Platform)
-- Implemented authentication, product listing, and cart system  
-- Designed backend APIs and Database schema  
-- Deployed Frontend on Vercel and Backend on Render
+🔗 [Frontend](https://market-nest-frontend-umber.vercel.app/) · [Backend](https://marketnest-backend-kxer.onrender.com/)
 
 ---
 
