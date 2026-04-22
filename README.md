@@ -1,5 +1,60 @@
-# About Me💫:
-## Hi, I'm Astha Bhardwaj👋<br><br>💻 Full Stack Developer specializing in MERN stack, passionate about building scalable and user-friendly web applications.<br><br>🚀 I have hands-on experience in building scalable Full Stack applications using:<br>- MongoDB, Express.js, React.js, Node.js<br>- REST APIs & backend architecture<br>- Authentication (JWT, bcrypt)<br><br>🧠 Currently focused on:<br>- Problem solving using JavaScript<br>- Data Structures & Algorithms (Python)<br>- Building full-stack MERN applications<br>- Backend optimization & system design basics<br>- Developing real-world projects like a LeetCode Clone and MarketNest (E-Commerce platform)<br><br>🎯 My Goal:<br>To grow as a skilled Full Stack Developer and contribute to impactful, scalable products in a growth-driven organization.<br><br>⚡ Fun Fact:<br>I enjoy solving coding challenges and turning ideas into real-world applications.<br>I debug at midnight and ship by morning 🚀
+# Hi, I'm Astha Bhardwaj 👋
+🚀 Full Stack MERN Developer  
+📍 India  
+
+---
+
+## 💼 About Me
+- Full Stack Developer with hands-on experience in building scalable web applications  
+- Strong focus on MERN stack and Backend Architecture  
+- Passionate about solving real-world problems through code  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C
+**Frontend:** React.js, JavaScript, HTML, CSS, TailwindCSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Postman  
+
+---
+
+## 🔥 Key Highlights
+- Built a **LeetCode Clone** with code execution (Judge0 integration), timer, and test cases  
+- Developed a full-stack **MarketNest (E-Commerce platform)** with authentication, cart functionality, and deployment
+- Implemented secure authentication using JWT and bcrypt  
+- Designed REST APIs and Backend Architecture for Scalable Applications  
+
+---
+
+## 💼 Internship 
+
+**Frontend Developer Intern – GanakGyan**  
+- Developed “Bharat Yatra,” a responsive web application with clean UI/UX, dynamic routing, and state management using React.js   
+- Implemented modern React patterns including hooks (useState, useEffect) and component lifecycle optimization  
+- Collaborated using Git/GitHub for version control, code reviews, and agile development practice  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 LeetCode Clone
+- Built full-stack coding platform with real-time code execution  
+- Integrated Judge0 API for running code  
+- Added timer, test cases, and challenge mode  
+
+### 🔹 MarketNest (E-Commerce Platform)
+- Implemented authentication, product listing, and cart system  
+- Designed backend APIs and Database schema  
+- Deployed Frontend on Vercel and Backend on Render
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/astha-bhardwaj1907/
+- GitHub: https://github.com/asthabhardwaj09
 
 
 ## 🌐 Socials:
